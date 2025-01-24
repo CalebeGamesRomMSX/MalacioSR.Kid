@@ -1,1 +1,4 @@
+RECOMENDATIONS INSTALL THIS
+PAGE HAS BEEN BUGGED
+
 ORIGINAL REPOSITORY https://github.com/450/speedrun.com?tab=readme-ov-file
